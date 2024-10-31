@@ -1,7 +1,7 @@
 # SQL
 
 
-## ORDER BY
+### ORDER BY
 
 
-## LIMIT AND OFFSET
+### LIMIT AND OFFSET
